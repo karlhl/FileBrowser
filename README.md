@@ -4,7 +4,9 @@
 
 用于第一次打开App时候申请存储访问，网络，电量优化（后台）的功能
 
-<img src="https://gitee.com/karlhan/picgo/raw/master/img/image-20210929101519962.png" alt="image-20210929101519962" style="zoom: 67%;" />
+<img src="pics\image-20210929101519962.png" style="zoom:50%;" />
+
+<img src="D:\work\Github\showPathFiles\FileBrowser\pics\image-20210929101519962.png" alt="image-20210929101519962" style="zoom: 67%;" />
 
 ##### 界面展示
 
