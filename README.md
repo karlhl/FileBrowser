@@ -6,13 +6,13 @@
 
 <img src="pics\image-20210929101519962.png" style="zoom:50%;" />
 
-<img src="D:\work\Github\showPathFiles\FileBrowser\pics\image-20210929101519962.png" alt="image-20210929101519962" style="zoom: 67%;" />
+
 
 ##### 界面展示
 
 打开页面自动打开外置sd卡的DCIM文件夹内，显示所有任务拍摄的文件夹
 
-<img src="https://gitee.com/karlhan/picgo/raw/master/img/image-20210929103147159.png" alt="image-20210929103147159" style="zoom:67%;" />
+<img src="pics\image-20210929103147159.png" style="zoom:50%;" />
 
 
 
@@ -24,9 +24,13 @@
 
 在添加完任务之后可以点击右下角按钮“发送队列中文件”即可实现发送。
 
-<img src="https://gitee.com/karlhan/picgo/raw/master/img/image-20210929103303999.png" alt="image-20210929103303999" style="zoom:67%;" />
+<img src="pics\image-20210929103303999.png" style="zoom:50%;" />
 
-<img src="https://gitee.com/karlhan/picgo/raw/master/img/image-20210929103436698.png" alt="image-20210929103436698" style="zoom:67%;" />
+
+
+
+
+<img src="pics\image-20210929103436698.png" alt="image-20210929103436698" style="zoom: 50%;" />
 
 
 
@@ -36,11 +40,11 @@
 
 发送队列只能添加文件夹，如果添加图片会弹出操作失败。
 
-<img src="https://gitee.com/karlhan/picgo/raw/master/img/image-20211005184126325.png" alt="image-20211005184126325" style="zoom:67%;" />
+<img src="pics\image-20211005184126325.png" alt="image-20211005184126325" style="zoom: 50%;" />
 
 中间按钮可以清空发送队列。
 
-<img src="https://gitee.com/karlhan/picgo/raw/master/img/image-20210929104934516.png" alt="image-20210929104934516" style="zoom:67%;" />
+<img src="pics\image-20210929104934516.png" alt="image-20210929104934516" style="zoom: 50%;" />
 
 
 
@@ -48,7 +52,7 @@
 
 长按文件夹选择直接发送。
 
-<img src="https://gitee.com/karlhan/picgo/raw/master/img/image-20211005184032855.png" alt="image-20211005184032855" style="zoom:67%;" />
+<img src="pics\image-20211005184032855.png" alt="image-20211005184032855" style="zoom: 50%;" />
 
 
 
@@ -56,21 +60,21 @@
 
 点击文件夹可以进入文件夹
 
-<img src="https://gitee.com/karlhan/picgo/raw/master/img/image-20210929103841018.png" alt="image-20210929103841018" style="zoom:67%;" />
+<img src="pics\image-20210929103841018.png" alt="image-20210929103841018" style="zoom: 50%;" />
 
 点击图片，选择使用相册打开，会调用系统相册打开图片：
 
-<img src="https://gitee.com/karlhan/picgo/raw/master/img/image-20210929104141202.png" alt="image-20210929104141202" style="zoom:67%;" />
+<img src="pics\image-20210929104141202.png" alt="image-20210929104141202" style="zoom: 50%;" />
 
 ##### 服务器配置
 
 点击即可更改服务器配置，实现了应用配置存储的功能，重启APP后悔保存修改后的信息。
 
-<img src="https://gitee.com/karlhan/picgo/raw/master/img/image-20211005183611055.png" alt="image-20211005183611055" style="zoom:67%;" />
+<img src="pics\image-20211005183611055.png" alt="image-20211005183611055" style="zoom: 50%;" />
 
 
 
-<img src="https://gitee.com/karlhan/picgo/raw/master/img/image-20211005183632023.png" alt="image-20211005183632023" style="zoom:67%;" />
+<img src="pics\image-20211005183632023.png" alt="image-20211005183632023" style="zoom: 50%;" />
 
 
 
